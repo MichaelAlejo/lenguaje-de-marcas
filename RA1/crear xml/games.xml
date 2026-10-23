@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<juegos>
+
+    <juego>
+        <codigo>J001</codigo>
+        <nombre>FIFA 26</nombre>
+        <version>26.0</version>
+        <compañia>EA Sports</compañia>
+        <añosalida>2025</añosalida>
+
+        <ejemplar>
+            <codigo>001</codigo>
+        </ejemplar>
+
+        <ejemplar>
+            <codigo>002</codigo>
+        </ejemplar>
+    </juego>
+
+    <juego>
+        <codigo>J002</codigo>
+        <nombre>Minecraft</nombre>
+        <version>1.21</version>
+        <compañia>Mojang</compañia>
+        <añosalida>2011</añosalida>
+
+        <ejemplar>
+            <codigo>003</codigo>
+        </ejemplar>
+    </juego>
+
+    <prestamo>
+        <codigoEjemplar>001</codigoEjemplar>
+
+        <socio>
+            <DNI>12345678A</DNI>
+            <nombre>Carlos</nombre>
+            <telefono>600123456</telefono>
+        </socio>
+
+        <fechaPrestamo>08/10/2026</fechaPrestamo>
+        <fechaDevolucion>15/10/2026</fechaDevolucion>
+    </prestamo>
+
+</juegos>

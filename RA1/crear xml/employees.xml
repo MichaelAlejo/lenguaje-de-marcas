@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<employees>
+
+    <employee salary="2000">
+        <name>carlos</name>
+        <id>11111</id>
+        <gender>male</gender>
+        <age>21</age>
+        <hiringDate>22/1/2000</hiringDate>
+    </employee>
+
+    <employee salary="2500">
+        <name>pedro</name>
+        <id>22222</id>
+        <gender>male</gender>
+        <age>54</age>
+        <hiringDate>26/4/1975</hiringDate>
+    </employee>
+
+    <employee salary="2200">
+        <name>monica</name>
+        <id>33333</id>
+        <gender>female</gender>
+        <age>30</age>
+        <hiringDate>10/12/1995</hiringDate>
+    </employee>
+
+</employees>

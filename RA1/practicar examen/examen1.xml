@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sist_seguridad>
+
+    <alerta>
+
+        <origen>microsoft</origen> 
+        <sist_provencion>troyano</sist_provencion>
+        <data_i_hora>22-22-2200</data_i_hora>
+
+        <esdeveniment>
+            <usuari_imp codigo="" mail=""/>
+            <detalles descripcio=""/>
+            <parametre_mod nom="" valor_corr=""/>
+        </esdeveniment>
+
+    </alerta>
+
+</sist_seguridad>

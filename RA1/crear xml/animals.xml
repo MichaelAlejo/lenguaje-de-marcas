@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<animals>
+    <animal>
+        <name>Leopardo</name>
+        <species>Mamifero</species>
+        <diet>Carnivoro</diet>
+        <habitat>Sabana</habitat>
+        <description>Gato grande que vive por la sabana que caza comida para sobrevivir</description>
+    </animal>
+
+    <animal>
+        <name>Mono</name>
+        <species>Mamifero</species>
+        <diet>Platanos</diet>
+        <habitat>Selva</habitat>
+        <description>Animal caracteristico por ser buen trepador de arboles y comer muchos platanos</description>
+    </animal>
+
+    <animal>
+        <name>Tiburon</name>
+        <species>Acuatica</species>
+        <diet>Carnivoro</diet>
+        <habitat>Mar abierto</habitat>
+        <description>Animal acuatico muy veloz que ataca a cualquier ser con tal de sobrevivir</description>
+    </animal>
+</animals>

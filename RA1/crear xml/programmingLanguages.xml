@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<languages>
+
+    <language typing="dinamico" platform="linux">
+        <name>Lua</name>
+        <year>1993</year>
+        <creator>Roberto Ierusalimschy</creator>
+        <paradigm>Procedural, orientado a objetos</paradigm>
+        <features>Ligero, rapido y facil de integrar</features>
+    </language>
+    
+    <language typing="estatico" platform="windows">
+        <name>Java</name>
+        <year>1995</year>
+        <creator>James Gosling</creator>
+        <paradigm>Orientado a objetos</paradigm>
+        <features>Portable, robusto y utilizado</features>
+    </language>
+
+    <language typing="estatico" platform="linux">
+        <name>C++</name>
+        <year>1985</year>
+        <creator>Bjarne Stroustrup</creator>
+        <paradigm>Orientado a objetos, procedural</paradigm>
+        <features>Rapido, eficiente y de alto rendimiento</features>
+    </language>
+
+</languages>

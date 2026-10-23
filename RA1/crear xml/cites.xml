@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Michael Alejandro Castillo Giron-->
+    
+<cities>
+    <city>
+        <name>Santa coloma de gramenet</name>
+        <country>Barcelona</country>
+        <population>100000</population>
+        <timeZone>UTC +1</timeZone>
+        <attractions>Rio besos</attractions> 
+    </city>
+
+    <city>
+        <name>Paris</name>
+        <country>Francia</country>
+        <population>4000000</population>
+        <timeZone>UTC +8</timeZone>
+        <attractions>Torre eifel</attractions> 
+    </city>
+
+    <city>
+        <name>Bergen</name>
+        <country>Noruega</country>
+        <population>70000000</population>
+        <timeZone>UTC +5</timeZone>
+        <attractions>Auroras boreales</attractions> 
+    </city>
+</cities>

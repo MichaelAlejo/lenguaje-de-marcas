@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<smartphones>
+
+    <smartphone>
+        <nom>iPhone 16e</nom>
+        <SO nom="iOS" versio="26"/>
+        <dimensions amplada="71.5 mm" alçada="146.7 mm" fons="7.8 mm"/>
+        <pes>167 g</pes>
+        <resolucio_de_pantalla>2532 x 1170</resolucio_de_pantalla>
+        <processador>A18</processador>
+        <memoria>8 GB</memoria>
+        <preu>699 €</preu>
+    </smartphone>
+
+    <smartphone>
+        <nom>Samsung Galaxy S25</nom>
+        <SO nom="Android" versio="15"/>
+        <dimensions amplada="70.5 mm" alçada="146.9 mm" fons="7.2 mm"/>
+        <pes>162 g</pes>
+        <resolucio_de_pantalla>2340 x 1080</resolucio_de_pantalla>
+        <processador>Snapdragon 8 Elite</processador>
+        <memoria>12 GB</memoria>
+        <preu>909 €</preu>
+    </smartphone>
+
+    <smartphone>
+        <nom>Google Pixel 9</nom>
+        <SO nom="Android" versio="14"/>
+        <dimensions amplada="72.0 mm" alçada="152.8 mm" fons="8.5 mm"/>
+        <pes>198 g</pes>
+        <resolucio_de_pantalla>2424 x 1080</resolucio_de_pantalla>
+        <processador>Google Tensor G4</processador>
+        <memoria>12 GB</memoria>
+        <preu>899 €</preu>
+    </smartphone>
+
+</smartphones>

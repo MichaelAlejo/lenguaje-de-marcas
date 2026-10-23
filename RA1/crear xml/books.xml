@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<books>
+
+    <book isbn="123456789" available="true">
+        <title>Patatas voladoras</title>
+        <author>Michael Castillo</author>
+        <year>2017</year>
+        <genre>Espacial</genre>
+        <description>Un ordenador aprende a cocinar mientras llueve.</description>
+    </book>
+
+    <book isbn="987654321" available="false">
+        <title>El zapato azul</title>
+        <author>Carlos Garcia</author>
+        <year>2022</year>
+        <genre>Aventura</genre>
+        <description>Una bicicleta encuentra una puerta debajo de una mesa.</description>
+    </book>
+
+    <book isbn="456789123" available="true">
+        <title>Viaje a Marte</title>
+        <author>Laura Perez</author>
+        <year>1998</year>
+        <genre>Comedia</genre>
+        <description>Un gato decide construir una piscina en medio del bosque.</description>
+    </book>
+
+</books>

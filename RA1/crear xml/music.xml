@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<music>
+
+    <list>
+        <name>Mis favoritas</name>
+        <creationDate>08/10/2026</creationDate>
+
+        <song>
+            <track>1</track>
+            <title>Peace&amp;War</title>
+            <author>Queen</author>
+            <duration>5:55</duration>
+        </song>
+
+        <song>
+            <track>2</track>
+            <title>Imagine</title>
+            <author>John Lennon</author>
+            <duration>3:03</duration>
+        </song>
+    </list>
+
+    <list>
+        <name>Musica para estudiar</name>
+        <creationDate>07/10/2026</creationDate>
+
+        <song>
+            <track>1</track>
+            <title>Yellow</title>
+            <author>Coldplay</author>
+            <duration>4:26</duration>
+        </song>
+
+        <song>
+            <track>2</track>
+            <title>Viva la Vida</title>
+            <author>Coldplay</author>
+            <duration>4:02</duration>
+        </song>
+    </list>
+
+</music>

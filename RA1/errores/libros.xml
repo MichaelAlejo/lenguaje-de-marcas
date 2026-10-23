@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<libreria>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Cervantes</autor>
+        <genero>Novela</genero>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <genero>Ciencia Ficción</genero>
+    </libro>
+    <libro>
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <autor>J.K. Rowling</autor>
+        <genero>Fantasia</genero>
+    </libro>
+</libreria>

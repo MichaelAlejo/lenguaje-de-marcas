@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Michael Alejandro Castillo Giron-->
+
+<comidas>
+    <comida>
+        <nombre>Paella</nombre>
+        <tipo principal=""/>
+        <pais>España</pais>
+    </comida>
+    <comida>
+        <nombre>Sushi</nombre>
+        <tipo>Principal</tipo>
+        <pais>Japon</pais>
+
+    </comida>
+</comidas>
