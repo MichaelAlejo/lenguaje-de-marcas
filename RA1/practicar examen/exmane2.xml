@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<departamentos xmlns:engins="https://wikipedia.com/engins"
+    xmlns:gestesp="https://wikipedia.com/engins">
+
+    <engins:planta produccio="" codi="" activitat="">
+
+        <linea_treball id="" descripcio="" estat_func="" />
+
+    </engins:planta>
+
+    <gestesp:planta pis="" num_pis="" torre="">
+
+        <zona_inst codi_sector="" aforament="" estat="" />
+
+    </gestesp:planta>
+
+</departamentos>
