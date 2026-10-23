@@ -2,18 +2,21 @@
 
 <sist_seguridad>
 
-    <alerta>
+    <alertas>
+        <alerta id="" version="" />
 
-        <origen>microsoft</origen> 
-        <sist_provencion>troyano</sist_provencion>
-        <data_i_hora>22-22-2200</data_i_hora>
+        <sistema>
+            <origen>microsoft</origen>
+            <sist_provencion>troyano</sist_provencion>
+            <data_i_hora>22-22-2200</data_i_hora>
+        </sistema>
 
-        <esdeveniment>
-            <usuari_imp codigo="" mail=""/>
-            <detalles descripcio=""/>
-            <parametre_mod nom="" valor_corr=""/>
+        <esdeveniment criticitat="">
+            <usuari_imp codigo="" mail="" />
+            <detalles descripcio="" />
+            <parametre_mod nom="" valor_corr="" />
         </esdeveniment>
 
-    </alerta>
+    </alertas>
 
 </sist_seguridad>
