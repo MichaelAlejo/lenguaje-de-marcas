@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bancs xmlns:bd="https://es.wikipedia.org/wiki/Banco"
+        xmlns:bs="https://es.wikipedia.org/wiki/Banco_(mueble)"
+        xmlns:bp="https://es.wikipedia.org/wiki/Cardumen">
+
+        <bd:nombre>caixa bank</bd:nombre>
+        <bs:color>naranja</bs:color>
+        <bp:individuos>40 peces</bp:individuos>
+</bancs>
