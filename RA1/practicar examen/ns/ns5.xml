@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<departamentos xmlns:eng="http://google.com/eng" xmlns:esp="http://gogle.com/esp">
+
+    <eng:industrial planta="" codigo="" actividad="">
+        <eng:linea_treball id="" estado="">
+            <eng:descripcion></eng:descripcion>
+        </eng:linea_treball>
+    </eng:industrial>
+
+    <esp:arquitectura planta="" piso="" torre="">
+        <zona_instalacion codigo="" aforo="" estado="">
+        </zona_instalacion>
+    </esp:arquitectura>
+
+</departamentos>
