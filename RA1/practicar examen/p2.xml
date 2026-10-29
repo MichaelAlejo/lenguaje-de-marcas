@@ -3,19 +3,18 @@
 <biblioteca>
 
     <libros codigo="" titulo="">
-        <autor nombre="" nacion="" />
-        <publicacion ano="" editorial="" />
-        <disponible></disponible>
-        <categoria></categoria>
-
-        <prestamo id="">
-            <fecha_prestamo></fecha_prestamo>
-            <fecha_devolucion></fecha_devolucion>
-            <codigo_libro></codigo_libro>
-            <socio numero="" nombre=""/>
-
-        </prestamo>
-
+        <libro>
+            <autor nombre="" nacion="" />
+            <publicacion ano="" editorial="" />
+            <disponible></disponible>
+            <categoria></categoria>
+        </libro>
     </libros>
+    <prestamo id="">
+        <fecha_prestamo></fecha_prestamo>
+        <fecha_devolucion></fecha_devolucion>
+        <codigo_libro></codigo_libro>
+        <socio numero="" nombre="" />
+    </prestamo>
 
 </biblioteca>
