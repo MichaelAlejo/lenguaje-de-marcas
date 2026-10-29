@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<empresa_videojuegos>
+
+    <videojuegos>
+        <videojuego codigo="" titulo="">
+            <genero genero=""/>
+            <lanzamiento fecha="" empresa=""/>
+            <plataforma></plataforma>
+        </videojuego>        
+    </videojuegos>
+
+    <desarrolladores>
+        <desarollador codigo="" nombre="" correo ="">
+            <especialidad></especialidad>
+            <experiencia años=""/>
+        </desarollador>
+    </desarrolladores>
+
+    <proyectos>
+        <proyecto codigo="" nombre="">
+            <estado></estado>
+            <fecha inicio="" finalizacion=""/>
+            <desarolladores codigo=""/>
+            <videojuego codigo=""/>
+        </proyecto>
+    </proyectos>
+
+
+</empresa_videojuegos>

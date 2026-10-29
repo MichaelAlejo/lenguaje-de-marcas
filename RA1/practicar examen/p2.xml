@@ -2,8 +2,8 @@
 
 <biblioteca>
 
-    <libros codigo="" titulo="">
-        <libro>
+    <libros>
+        <libro codigo="" titulo="">
             <autor nombre="" nacion="" />
             <publicacion ano="" editorial="" />
             <disponible></disponible>
