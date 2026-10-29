@@ -3,9 +3,18 @@
 <departamentos xmlns:eng="https://wikipedia.com/engins"
     xmlns:esp="https://wikipedia.com/engins">
 
-    
+    <eng:industrial planta="" codigo="" actividad="">
+        <linea_de_treball id="">
+            <descripcion></descripcion>
+            <estado></estado>
+        </linea_de_treball>
+    </eng:industrial>
 
-
-
+    <esp:arquitectura planta="" pis="" torre="">
+        <instalacions codi="">
+            <aforo></aforo>
+            <estado></estado>
+        </instalacions>
+    </esp:arquitectura>
 
 </departamentos>
