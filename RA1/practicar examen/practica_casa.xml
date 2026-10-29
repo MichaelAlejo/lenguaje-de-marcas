@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sist_ventas>
+
+    <mensaje id="1111" protocolo="1.0">
+        <origen></origen>
+        <fecha></fecha>
+    </mensaje>
+
+    <operacion tipo="" importancia="">
+        <empleado>
+            <codigo></codigo>
+            <correo></correo>
+        </empleado>
+        <detalles>
+            <desc_op></desc_op>
+            <datos_mod>
+                <nombre></nombre>
+                <nuevo_val></nuevo_val>
+            </datos_mod>
+        </detalles>
+    </operacion>
+
+</sist_ventas>
