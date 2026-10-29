@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hospital>
+
+    <pacientes>
+        <paciente codigo="" nombre="" nacimiento="" telefono="" correo="" grupo_sang="">
+            <alergias>
+                <alergia></alergia>
+            </alergias>
+        </paciente>
+    </pacientes>
+
+    <medicos>
+        <medico id="" nombre="" especialidad="" despacho="">
+            <trabaja>
+                <dias></dias>
+            </trabaja>
+        </medico>
+    </medicos>
+
+    <citas>
+        <cita id="" fecha="" hora="" motivo="" estado="">
+            <medico id=""/>
+            <paciente codigo=""/>
+        </cita>
+        <pruebas codigo="" nombre="" estado="">
+            <numero_pruebas></numero_pruebas>
+        </pruebas>
+    </citas>
+
+
+
+</hospital>
