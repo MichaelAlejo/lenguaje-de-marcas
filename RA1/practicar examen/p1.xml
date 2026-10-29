@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sist_almacen>
+
+    <mensaje id="" protocolo="">
+
+        <sist_origen></sist_origen>
+        <fecha_hora></fecha_hora>
+
+        <movimiento tipo="" prioridad="">
+
+            <responsable codigo="" correo="" />
+            <detalles desc="">
+                <producto_afectado codigo="" unidades=""/>
+            </detalles>
+
+        </movimiento>
+
+    </mensaje>
+
+</sist_almacen>
