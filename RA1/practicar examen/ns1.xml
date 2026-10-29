@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<espectaculos xmlns:con="http://wikipedia.com/conciertos" xmlns:tea="http://wikipedia.com/teatro">
+
+    <con:conciertos>
+        <con:concierto con:entrada="">
+            <con:artista></con:artista>
+            <con:lugar></con:lugar>
+            <con:fecha></con:fecha>
+            <con:hora></con:hora>
+        </con:concierto>
+    </con:conciertos>
+
+    <tea:teatro>
+        <tea:obra tea:entrada="">
+            <tea:compania></tea:compania>
+            <tea:lugar></tea:lugar>
+            <tea:fecha></tea:fecha>
+            <tea:hora></tea:hora>
+            <tea:titulo></tea:titulo>
+        </tea:obra>
+    </tea:teatro>
+
+</espectaculos>
