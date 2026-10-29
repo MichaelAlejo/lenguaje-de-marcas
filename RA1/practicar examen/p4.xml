@@ -22,10 +22,11 @@
         <cita id="" fecha="" hora="" motivo="" estado="">
             <medico id=""/>
             <paciente codigo=""/>
+            <pruebas codigo="" nombre="" estado="">
+                <numero_pruebas></numero_pruebas>
+            </pruebas>
         </cita>
-        <pruebas codigo="" nombre="" estado="">
-            <numero_pruebas></numero_pruebas>
-        </pruebas>
+
     </citas>
 
 
