@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tecnologia xmlns:dev="https://apple.com/developers" xmlns:sop="https://apple.com/soporte">
+
+    <dev:dep_dev>
+        <dev:proyectos>
+            <dev:proyecto codigo="" estado="">
+                <dev:nombre></dev:nombre>
+                <dev:programadores>
+                    <dev:programador id="">
+                        <dev:nom></dev:nom>
+                    </dev:programador>
+                </dev:programadores>
+                <dev:tareas>
+                    <dev:tarea codigo="">
+                        <dev:descripcion></dev:descripcion>
+                        <dev:fecha_lim></dev:fecha_lim>
+                    </dev:tarea>
+                </dev:tareas>
+            </dev:proyecto>
+        </dev:proyectos>
+    </dev:dep_dev>
+
+    <sop:dep_sop>
+        <sop:incidencias>
+            <sop:invidencia codgio="" estado="">
+                <sop:cliente></sop:cliente>
+                <sop:descripcion></sop:descripcion>
+                <sop:fecha></sop:fecha>
+                <sop:comentarios>
+                    <sop:comentario id="">
+                        <sop:fecha></sop:fecha>
+                        <sop:texto></sop:texto>
+                    </sop:comentario>
+                </sop:comentarios>
+                <sop:tecnico codigo="">
+                    <sop:nombre></sop:nombre>
+                </sop:tecnico>
+            </sop:invidencia>
+        </sop:incidencias>
+    </sop:dep_sop>
+
+</tecnologia>
