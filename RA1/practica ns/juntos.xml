@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<concietos xmlns:c1="http://wikipedia.com/con1" xmlns:c2="http://wikipedia.com/con2">
+
+    <c1:esdeveniments>
+        <c1:esdeveniment>
+            <c1:grup>Oques Grasses</c1:grup>
+            <c1:lloc>El moll de la fusta</c1:lloc>
+            <c1:data>2017-09-12 22:30</c1:data>
+            <c1:entrada gratuita="si" />
+        </c1:esdeveniment>
+        <c1:esdeveniment>
+            <c1:grup>Zoo</c1:grup>
+            <c1:lloc>Sala Apolo</c1:lloc>
+            <c1:data>2018-01-03 02:45</c1:data>
+            <c1:entrada gratuita="no">25</c1:entrada>
+        </c1:esdeveniment>
+        <c1:esdeveniment>
+            <c1:grup>Txarango</c1:grup>
+            <c1:lloc>El Poble Espanyol</c1:lloc>
+            <c1:data>2018-06-24</c1:data>
+            <c1:entrada gratuita="no">17.5</c1:entrada>
+        </c1:esdeveniment>
+    </c1:esdeveniments>
+
+    <c2:esdeveniments>
+        <c2:esdeveniment>
+            <c2:companyia>La Cubana</c2:companyia>
+            <c2:lloc>Teatre Colisseum</c2:lloc>
+            <c2:lloc>2017-11-26 20:30</c2:lloc>
+            <c2:entrada>Lliure</c2:entrada>
+        </c2:esdeveniment>
+        <c2:esdeveniment>
+            <c2:companyia>El Tricicle</c2:companyia>
+            <c2:lloc>Teatre Poliorama</c2:lloc>
+            <c2:data>2018-12-01 21:00</c2:data>
+            <c2:entrada>22€ per a majors de 18 anys; 5€ per a menors de 18 anys i majors de 65 anys.</c2:entrada>
+        </c2:esdeveniment>
+    </c2:esdeveniments>
+
+</concietos>
