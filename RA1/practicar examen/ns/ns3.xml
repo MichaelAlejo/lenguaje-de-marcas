@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<universidad xmlns:form="https://upc.com/formacion" xmlns:bib="https://upc.com/biblioteca">
+
+    <form:dep_form>
+        <form:cursos>
+            <form:curso>
+                <form:codigo></form:codigo>
+                <form:categoria></form:categoria>
+                <form:nombre></form:nombre>
+                <form:responsable nom="" id=""></form:responsable>
+                <form:alumnos nom="" dni=""></form:alumnos>
+                <form:fecha_inicio></form:fecha_inicio>
+                <form:fecha_fin></form:fecha_fin>
+            </form:curso>
+        </form:cursos>
+    </form:dep_form>
+
+    <bib:dep_biblio>
+        <bib:libros>
+            <bib:libro disponibilidad="">
+                <bib:codigo></bib:codigo>
+                <bib:titulo></bib:titulo>
+                <bib:autor></bib:autor>
+                <bib:prestamo fecha_ini="" fecha_fin=""></bib:prestamo>
+            </bib:libro>
+        </bib:libros>
+    </bib:dep_biblio>
+
+</universidad>
