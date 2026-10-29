@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<departamentos xmlns:eng="https://wikipedia.com/engins"
+<departamentos id_registro="" xmlns:eng="https://wikipedia.com/engins"
     xmlns:esp="https://wikipedia.com/engins">
 
     <eng:industrial planta="" codigo="" actividad="">
