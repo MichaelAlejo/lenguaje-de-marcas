@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<centro_investigacion identificador="" xmlns:cien="youtube.com" xmlns:lab="youtube.com">
+    <cien:inv_cien>
+        <cien:proyecto codigo="">
+            <cien:nombre></cien:nombre>
+            <cien:campo></cien:campo>
+            <cien:fecha_in></cien:fecha_in>
+            <cien:participantes>
+                <cien:investigador id="">
+                    <cien:nombre></cien:nombre>
+                    <cien:especialidad></cien:especialidad>
+                </cien:investigador>
+            </cien:participantes>
+            <cien:descripcion></cien:descripcion>
+        </cien:proyecto>
+    </cien:inv_cien>
+
+    <lab:gest_lab>
+        <lab:laboratorios>
+            <lab:laboratorio id="">
+                <lab:nombre></lab:nombre>
+                <lab:ubicacion></lab:ubicacion>
+                <lab:equipos>
+                    <lab:equipo num_inventario="">
+                        <lab:nombre></lab:nombre>
+                        <lab:fabricante></lab:fabricante>
+                        <lab:estado></lab:estado>
+                    </lab:equipo>
+                </lab:equipos>
+                <lab:zona_seguridad id="">
+                    <lab:nivel_seg></lab:nivel_seg>
+                    <lab:acceso></lab:acceso>
+                </lab:zona_seguridad>
+            </lab:laboratorio>
+        </lab:laboratorios>
+    </lab:gest_lab>
+</centro_investigacion>
