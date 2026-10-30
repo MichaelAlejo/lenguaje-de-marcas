@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sistema_gest>
+    <transmision id="" protocolo="">
+        <mensaje>
+            <origen></origen>
+            <sistema></sistema>
+            <fecha></fecha>
+            <hora></hora>
+            <movimiento tipo="" estado="">
+                <empleado codigo="">
+                    <correo></correo>
+                </empleado>
+                <detalles>
+                    <descripcion></descripcion>
+                    <productos_afectados codigo="" cantidad=""/>
+                </detalles>
+            </movimiento>
+        </mensaje>
+    </transmision>
+</sistema_gest>
