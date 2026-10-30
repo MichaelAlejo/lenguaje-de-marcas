@@ -1,1 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<zoologico id_informe="" xmlns:ani="http://zoo.com/animales"
+    xmlns:ins="http://zoo.com/instalaciones">
+
+    <ani:gest_animales>
+        <ani:animal codigo="">
+            <ani:nombre></ani:nombre>
+            <ani:especie></ani:especie>
+            <ani:edad></ani:edad>
+            <ani:salud></ani:salud>
+            <ani:cuidador numero="">
+                <ani:nombre></ani:nombre>
+                <ani:turno></ani:turno>
+            </ani:cuidador>
+        </ani:animal>
+    </ani:gest_animales>
+
+    <ins:gest_instalaciones>
+        <ins:instalacion codigo="">
+            <ins:nombre></ins:nombre>
+            <ins:capacidad></ins:capacidad>
+            <ins:ubicacion></ins:ubicacion>
+            <ins:zona_mantenimiento>
+                <ins:tipo></ins:tipo>
+                <ins:estado></ins:estado>
+                <ins:ultima_revision></ins:ultima_revision>
+            </ins:zona_mantenimiento>
+        </ins:instalacion>
+    </ins:gest_instalaciones>
+
+</zoologico>
