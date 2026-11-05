@@ -1,1 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<rrhh>
+
+    <transmision id="" version="">
+        <mensaje>
+            <origen></origen>
+            <sis.prov></sis.prov>
+            <fecha></fecha>
+            <hora></hora>
+        </mensaje>
+        <horario tipo="" estado="">
+            <trabajador>
+                <numero></numero>
+                <nombre></nombre>
+                <correo></correo>
+            </trabajador>
+            <detalles>
+                <descripcion></descripcion>
+                <datos_horarios>
+                    <dato concepto="" hora="" validez=""/>
+                </datos_horarios>
+            </detalles>
+        </horario>
+    </transmision>
+
+</rrhh>
