@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ventas>
+
+    <transmision id="" version="">
+        <origen>
+            <sist.proveniente></sist.proveniente>
+            <fecha></fecha>
+            <hora></hora>
+        </origen>
+        <op.venta tipo="" estado="">
+            <cliente>
+                <codigo></codigo>
+                <correo></correo>
+            </cliente>
+            <detalles>
+                <descripcion></descripcion>
+                <productos>
+                    <producto ref="" nombre="" precio=""></producto>
+                </productos>
+            </detalles>
+        </op.venta>
+    </transmision>
+
+</ventas>
