@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<empresa xmlns:ding ="http://youtube.com" xmlns:dcal="http://youtube.com">
+
+    <ding:dep_ing>
+        <ding:proyectos>
+            <ding:proyecto id="">
+                <ding:nombre></ding:nombre>
+                <ding:descripcion></ding:descripcion>
+                <ding:fecha_inicio></ding:fecha_inicio>
+                <ding:fecha_finalizacion></ding:fecha_finalizacion>
+                <ding:ingeniero code="" correo=""/>
+                <ding:tareas>
+                    <ding:tarea id="" estado="">
+                        <ding:descripcion></ding:descripcion>
+                    </ding:tarea>
+                </ding:tareas>
+            </ding:proyecto>
+        </ding:proyectos>
+    </ding:dep_ing>
+    <dcal:inspeciones>
+        <dcal:inspecion id="">
+            <dcal:nombre_inspector n_empleado=""></dcal:nombre_inspector>
+            <dcal:fecha_ins></dcal:fecha_ins>
+            <dcal:resultado></dcal:resultado>
+            <dcal:observaciones>
+                <dcal:observacion codigo="">
+                    <dcal:descripcion></dcal:descripcion>
+                </dcal:observacion>
+            </dcal:observaciones>
+        </dcal:inspecion>
+    </dcal:inspeciones>
+
+</empresa>
