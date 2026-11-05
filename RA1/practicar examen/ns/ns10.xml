@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<universidad xmlns:dinv="youtube.com" xmlns:dlab="youtube.com">
+    <dinv:dep_inv>
+        <dinv:proyecto id="">
+            <dinv:nombre></dinv:nombre>
+            <dinv:descripcion></dinv:descripcion>
+            <dinv:fecha_inicio></dinv:fecha_inicio>
+            <dinv:fecha_finalizacion></dinv:fecha_finalizacion>
+            <dinv:investigador_resp codigo="" correo=""/>
+            <dinv:participantes>
+                <dinv:participante nombre="" num_empleado=""/>
+            </dinv:participantes>
+        </dinv:proyecto>
+    </dinv:dep_inv>
+    <dlab:dep_lab>
+        <dlab:experimento codigo="" nombre="" fecha="" estado="">
+            <dlab:muestras>
+                <dlab:muestra>
+                    <dlab:codigo></dlab:codigo>
+                    <dlab:tipo></dlab:tipo>
+                    <dlab:resultado></dlab:resultado>
+                </dlab:muestra>
+            </dlab:muestras>
+        </dlab:experimento>
+    </dlab:dep_lab>
+</universidad>
