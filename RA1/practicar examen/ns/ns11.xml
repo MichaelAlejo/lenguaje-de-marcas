@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fabrica id="" xmlns:mp="youtube.com" xmlns:mc="youtube.com">
+    <mp:maquina nom="">
+        <mp:codigo_fabrica></mp:codigo_fabrica>
+        <mp:producto></mp:producto>
+        <mp:linea_produccion id="">
+            <mp:descripicon></mp:descripicon>
+            <mp:estado></mp:estado>
+        </mp:linea_produccion>
+    </mp:maquina>
+    <mc:maquina nombre="">
+        <mc:codigo></mc:codigo>
+        <mc:zona></mc:zona>
+        <mc:linea_inspeccion id="">
+            <mc:descripcion></mc:descripcion>
+            <mc:estado></mc:estado>
+        </mc:linea_inspeccion>
+
+    </mc:maquina>
+</fabrica>
