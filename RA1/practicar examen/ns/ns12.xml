@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<telecomunicaciones id="" xmlns:eqins="youtube.com" xmlns:eqsop="youtube.com">
+    <eqins:equipo nombre="">
+        <eqins:codigo></eqins:codigo>
+        <eqins:ubi></eqins:ubi>
+        <eqins:conexion_red id="">
+            <eqins:descripcion></eqins:descripcion>
+            <eqins:estado></eqins:estado>
+        </eqins:conexion_red>
+    </eqins:equipo>
+    <eqsop:equipo nombre="">
+        <eqsop:codigo></eqsop:codigo>
+        <eqsop:tecnico></eqsop:tecnico>
+        <eqsop:conexion_asis id="">
+            <eqsop:descripcion></eqsop:descripcion>
+            <eqsop:estado></eqsop:estado>
+        </eqsop:conexion_asis>
+    </eqsop:equipo>
+</telecomunicaciones>
