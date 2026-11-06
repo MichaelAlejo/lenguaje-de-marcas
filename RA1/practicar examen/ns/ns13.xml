@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<empresa_energetica id="" xmlns:insprod="a.com" xmlns:insdis="b.com">
+    <insprod:inst_produccion nombre="">
+        <insprod:codigo></insprod:codigo>
+        <insprod:tipo_energia></insprod:tipo_energia>
+        <insprod:red_prod id="">
+            <insprod:descripcion></insprod:descripcion>
+            <insprod:estado></insprod:estado>
+        </insprod:red_prod>
+    </insprod:inst_produccion>
+    <insdis:inst_distribucion nombre="">
+        <insdis:codigo></insdis:codigo>
+        <insdis:ubicacion></insdis:ubicacion>
+        <insdis:red_distr id="">
+            <insdis:tension_electrica></insdis:tension_electrica>
+            <insdis:estado></insdis:estado>
+        </insdis:red_distr>
+    </insdis:inst_distribucion>
+</empresa_energetica>
