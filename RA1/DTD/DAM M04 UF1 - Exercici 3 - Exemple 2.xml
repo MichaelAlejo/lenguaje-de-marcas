@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE arrel SYSTEM "exemple2.dtd">
+
 <arrel xmlns="http://www.elpuig.xeill.net/default" xmlns:c="http://www.elpuig.xeill.net/concerts" xmlns:t="http://www.elpuig.xeill.net/teatre">
 	<c:esdeveniments>
 		<c:esdeveniment>
