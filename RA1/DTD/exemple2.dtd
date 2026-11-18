@@ -1,0 +1,4 @@
+<!ELEMENT arrel (c:esdeveniments, t:esdeveniments)>
+<!ATTLIST arrel xmlns CDATA #REQUIRED>
+<!ATTLIST arrel xmlns:c CDATA #REQUIRED>
+<!ATTLIST arrel xmlns:t CDATA #REQUIRED>
