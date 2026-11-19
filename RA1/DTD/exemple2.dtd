@@ -1,9 +1,18 @@
+<!-- Declara l'element 'arrel' que conté els fills 'c:esdeveniments' i 't:esdeveniments'-->
 <!ELEMENT arrel (c:esdeveniments, t:esdeveniments)>
+<!-- Declara l'atribut 'xmlns' per a l'etiqueta 'arrel' fent que CDATA
+que permet qualsevol text i #REQUIRED fet l'atribut obligatori) -->
 <!ATTLIST arrel xmlns CDATA #REQUIRED>
+<!-- Declara l'atribut 'xmlns:c' per a l'etiqueta 'arrel' fent que CDATA
+que permet qualsevol text i #REQUIRED fet l'atribut obligatori) -->
 <!ATTLIST arrel xmlns:c CDATA #REQUIRED>
+<!-- Declara l'atribut 'xmlns:t' per a l'etiqueta 'arrel' fent que CDATA
+que permet qualsevol text i #REQUIRED fet l'atribut obligatori) -->
 <!ATTLIST arrel xmlns:t CDATA #REQUIRED>
 
+<!-- Declara l'element 'c:esdeveniments' que conté el fill 'c:esdeveniment' amb + que permet molts -->
 <!ELEMENT c:esdeveniments (c:esdeveniment+)>
+<!-- Declara l'element 'c:esdeveniment' que conté els fills 'c:grup', 'c:lloc', 'c:data' i 'c:entrada' -->
 <!ELEMENT c:esdeveniment (c:grup, c:lloc, c:data, c:entrada)>
 <!ELEMENT c:grup (#PCDATA)>
 <!ELEMENT c:lloc (#PCDATA)>
