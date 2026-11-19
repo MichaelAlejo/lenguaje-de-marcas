@@ -14,10 +14,16 @@ que permet qualsevol text i #REQUIRED fet l'atribut obligatori) -->
 <!ELEMENT c:esdeveniments (c:esdeveniment+)>
 <!-- Declara l'element 'c:esdeveniment' que conté els fills 'c:grup', 'c:lloc', 'c:data' i 'c:entrada' -->
 <!ELEMENT c:esdeveniment (c:grup, c:lloc, c:data, c:entrada)>
+<!-- Declara l'element 'grup' que amb PCDATA que permet text-->
 <!ELEMENT c:grup (#PCDATA)>
+<!-- Declara l'element 'lloc' que amb PCDATA que permet text-->
 <!ELEMENT c:lloc (#PCDATA)>
+<!-- Declara l'element 'data' que amb PCDATA que permet text-->
 <!ELEMENT c:data (#PCDATA)>
+<!-- Declara l'element 'entrada' que amb PCDATA que permet text-->
 <!ELEMENT c:entrada (#PCDATA)>
+<!-- Declara l'atribut 'gratuita' a 'entrada' que amb CDATA
+fem que permeti text, i amb #REQUIRED fem que sigui obligatori) -->
 <!ATTLIST c:entrada gratuita CDATA #REQUIRED>
 
 <!ELEMENT t:esdeveniments (t:esdeveniment+)>
