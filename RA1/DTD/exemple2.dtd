@@ -26,9 +26,15 @@ que permet qualsevol text i #REQUIRED fet l'atribut obligatori) -->
 fem que permeti text, i amb #REQUIRED fem que sigui obligatori) -->
 <!ATTLIST c:entrada gratuita CDATA #REQUIRED>
 
+<!-- Declara l'element 't:esdeveniments' que conté el fill 't:esdeveniment' amb + que permet molts -->
 <!ELEMENT t:esdeveniments (t:esdeveniment+)>
+<!-- Declara l'element 't:esdeveniment' que conté els fills 't:companyia', 't:lloc', 't:data' i 't:entrada' -->
 <!ELEMENT t:esdeveniment (t:companyia, t:lloc, t:data, t:entrada)>
+<!-- Declara l'element 'companyia' que amb PCDATA que permet text-->
 <!ELEMENT t:companyia (#PCDATA)>
+<!-- Declara l'element 'lloc' que amb PCDATA que permet text-->
 <!ELEMENT t:lloc (#PCDATA)>
+<!-- Declara l'element 'data' que amb PCDATA que permet text-->
 <!ELEMENT t:data (#PCDATA)>
+<!-- Declara l'element 'entrada' que amb PCDATA que permet text-->
 <!ELEMENT t:entrada (#PCDATA)>
