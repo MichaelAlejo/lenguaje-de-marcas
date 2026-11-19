@@ -2,13 +2,13 @@
 <!ELEMENT esdeveniments (esdeveniment+)>
 <!-- Declara l'element 'esdeveniment' amb els seus 4 fills -->
 <!ELEMENT esdeveniment (grup, lloc, data, entrada)>
-<!-- Declara l'element 'grup' que amb PCDATA permet text-->
+<!-- Declara l'element 'grup' que amb PCDATA que permet text-->
 <!ELEMENT grup (#PCDATA)>
-<!-- Declara l'element 'lloc' que amb PCDATA permet text-->
+<!-- Declara l'element 'lloc' que amb PCDATA que permet text-->
 <!ELEMENT lloc (#PCDATA)>
-<!-- Declara l'element 'data' que amb PCDATA permet text-->
+<!-- Declara l'element 'data' que amb PCDATA que permet text-->
 <!ELEMENT data (#PCDATA)>
-<!-- Declara l'element 'entrada' que amb PCDATA permet text-->
+<!-- Declara l'element 'entrada' que amb PCDATA que permet text-->
 <!ELEMENT entrada (#PCDATA)>
 <!-- Declara l'atribut 'gratuita' a 'entrada' que amb CDATA
 fem que permeteixi text, i amb #REQUIRED fem que sigui obligatori) -->
