@@ -11,5 +11,5 @@
 <!-- Declara l'element 'entrada' que amb PCDATA que permet text-->
 <!ELEMENT entrada (#PCDATA)>
 <!-- Declara l'atribut 'gratuita' a 'entrada' que amb CDATA
-fem que permeteixi text, i amb #REQUIRED fem que sigui obligatori) -->
+fem que permeti text, i amb #REQUIRED fem que sigui obligatori) -->
 <!ATTLIST entrada gratuita CDATA #REQUIRED>
